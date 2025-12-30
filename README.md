@@ -1,7 +1,7 @@
 # 🗣️ Amazon Alexa Sentiment Analysis
 
 ## 📌 Project Overview
-In this project, I analyzed **3,150 customer reviews** for the Amazon Alexa to understand user sentiment. Using **Python** and **Natural Language Processing (NLP)**, I built a pipeline that automatically classifies feedback as Positive, Negative, or Neutral.
+In this project, I analyzed **5,000+ customer reviews** for the Amazon Alexa to understand user sentiment. Using **Python** and **Natural Language Processing (NLP)**, I built a pipeline that automatically classifies feedback as Positive, Negative, or Neutral.
 
 ## 🛠️ Tech Stack
 * **Python:** Core logic and data processing.
